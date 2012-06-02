@@ -1,0 +1,12 @@
+bin/
+.gradle
+build
+*~
+.DS_Store
+/dist/
+.settings
+*.class
+*.sw?
+lib/.tmp/
+doc/
+*.db
